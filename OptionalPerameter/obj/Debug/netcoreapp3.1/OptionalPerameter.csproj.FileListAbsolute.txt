@@ -1,0 +1,13 @@
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\bin\Debug\netcoreapp3.1\OptionalPerameter.exe
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\bin\Debug\netcoreapp3.1\OptionalPerameter.deps.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\bin\Debug\netcoreapp3.1\OptionalPerameter.runtimeconfig.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\bin\Debug\netcoreapp3.1\OptionalPerameter.runtimeconfig.dev.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\bin\Debug\netcoreapp3.1\OptionalPerameter.dll
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\bin\Debug\netcoreapp3.1\OptionalPerameter.pdb
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\obj\Debug\netcoreapp3.1\OptionalPerameter.csprojAssemblyReference.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\obj\Debug\netcoreapp3.1\OptionalPerameter.AssemblyInfoInputs.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\obj\Debug\netcoreapp3.1\OptionalPerameter.AssemblyInfo.cs
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\obj\Debug\netcoreapp3.1\OptionalPerameter.csproj.CoreCompileInputs.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\obj\Debug\netcoreapp3.1\OptionalPerameter.dll
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\obj\Debug\netcoreapp3.1\OptionalPerameter.pdb
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\OptionalPerameter\obj\Debug\netcoreapp3.1\OptionalPerameter.genruntimeconfig.cache

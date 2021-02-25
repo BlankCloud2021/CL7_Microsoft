@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalPerameter", "OptionalPerameter.csproj", "{11696521-5DC4-484D-A00D-4EA5C7526730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11696521-5DC4-484D-A00D-4EA5C7526730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11696521-5DC4-484D-A00D-4EA5C7526730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11696521-5DC4-484D-A00D-4EA5C7526730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11696521-5DC4-484D-A00D-4EA5C7526730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEDD13D8-94F5-40D0-8CD9-A26F487DA007}
+	EndGlobalSection
+EndGlobal
