@@ -1,0 +1,13 @@
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\bin\Debug\netcoreapp3.1\CalculateAverages.exe
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\bin\Debug\netcoreapp3.1\CalculateAverages.deps.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\bin\Debug\netcoreapp3.1\CalculateAverages.runtimeconfig.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\bin\Debug\netcoreapp3.1\CalculateAverages.runtimeconfig.dev.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\bin\Debug\netcoreapp3.1\CalculateAverages.dll
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\bin\Debug\netcoreapp3.1\CalculateAverages.pdb
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\obj\Debug\netcoreapp3.1\CalculateAverages.csprojAssemblyReference.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\obj\Debug\netcoreapp3.1\CalculateAverages.AssemblyInfoInputs.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\obj\Debug\netcoreapp3.1\CalculateAverages.AssemblyInfo.cs
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\obj\Debug\netcoreapp3.1\CalculateAverages.csproj.CoreCompileInputs.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\obj\Debug\netcoreapp3.1\CalculateAverages.dll
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\obj\Debug\netcoreapp3.1\CalculateAverages.pdb
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\CalculateAverages\obj\Debug\netcoreapp3.1\CalculateAverages.genruntimeconfig.cache
