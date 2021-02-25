@@ -1,0 +1,13 @@
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\bin\Debug\netcoreapp3.1\String_Operators.exe
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\bin\Debug\netcoreapp3.1\String_Operators.deps.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\bin\Debug\netcoreapp3.1\String_Operators.runtimeconfig.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\bin\Debug\netcoreapp3.1\String_Operators.runtimeconfig.dev.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\bin\Debug\netcoreapp3.1\String_Operators.dll
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\bin\Debug\netcoreapp3.1\String_Operators.pdb
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\obj\Debug\netcoreapp3.1\String_Operators.csprojAssemblyReference.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\obj\Debug\netcoreapp3.1\String_Operators.AssemblyInfoInputs.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\obj\Debug\netcoreapp3.1\String_Operators.AssemblyInfo.cs
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\obj\Debug\netcoreapp3.1\String_Operators.csproj.CoreCompileInputs.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\obj\Debug\netcoreapp3.1\String_Operators.dll
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\obj\Debug\netcoreapp3.1\String_Operators.pdb
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\W2\String_Operators\obj\Debug\netcoreapp3.1\String_Operators.genruntimeconfig.cache
