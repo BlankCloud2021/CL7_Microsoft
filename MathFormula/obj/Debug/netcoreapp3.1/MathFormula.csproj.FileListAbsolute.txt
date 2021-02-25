@@ -1,0 +1,13 @@
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\obj\Debug\netcoreapp3.1\MathFormula.csprojAssemblyReference.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\obj\Debug\netcoreapp3.1\MathFormula.AssemblyInfoInputs.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\obj\Debug\netcoreapp3.1\MathFormula.AssemblyInfo.cs
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\obj\Debug\netcoreapp3.1\MathFormula.csproj.CoreCompileInputs.cache
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\bin\Debug\netcoreapp3.1\MathFormula.exe
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\bin\Debug\netcoreapp3.1\MathFormula.deps.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\bin\Debug\netcoreapp3.1\MathFormula.runtimeconfig.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\bin\Debug\netcoreapp3.1\MathFormula.runtimeconfig.dev.json
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\bin\Debug\netcoreapp3.1\MathFormula.dll
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\bin\Debug\netcoreapp3.1\MathFormula.pdb
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\obj\Debug\netcoreapp3.1\MathFormula.dll
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\obj\Debug\netcoreapp3.1\MathFormula.pdb
+C:\Users\mosel\OneDrive\Documents\MSSA C7\Class Work\Ex\MathFormula\obj\Debug\netcoreapp3.1\MathFormula.genruntimeconfig.cache
